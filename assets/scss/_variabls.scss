@@ -1,0 +1,28 @@
+// Font Family
+$font-main: 'Roboto', sans-serif;
+$font-title: 'PT Serif', serif;
+$rufina: 'Rufina', serif;
+
+    
+// text Colors ---------------
+$white: #ffffff;
+$black: #000000;
+$black2: #222222;
+$grey: #f8f8f8;
+
+// Theme Color
+$theme-color-main: #023059;
+$theme-color-main2: #F2C335;
+
+// Responsive Variables 
+$xxl-layout : 'only screen and (max-width: 1600px)';
+$xx-layout : 'only screen and (min-width: 1366px) and (max-width: 1600px)';
+$xl-layout : 'only screen and (min-width: 1200px) and (max-width: 1365px)';
+$lg-layout : 'only screen and (min-width: 992px) and (max-width: 1199px)';
+$md-layout:'only screen and (min-width: 768px) and (max-width: 991px)';
+$xs-layout:'only screen and (max-width: 767px)';
+$sm-layout: 'only screen and (min-width: 576px) and (max-width: 767px)';
+$ms-layout:'only screen and (max-width: 480px)';
+
+
+
