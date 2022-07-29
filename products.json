@@ -75,7 +75,7 @@
         "name" : "mini-printer",
         "category" : "accessories",
         "price" : "24000",
-        "imgSrc" : "product_list/mini-printer.jpg"
+        "imgSrc" : "product-list/mini-printer.png"
     },
     {
         "name" : "Mobile Phone Holder With Bluetooth Speaker",
@@ -107,10 +107,10 @@
     },
 
     {
-        "name" : "Apple tablets",
+        "name" : "Apple tablet",
         "category" : "tablets",
         "price" : "500000",
-        "imgSrc" : "product-list/Apple tablets.png"
+        "imgSrc" : "product-list/Apple Ipad Pro 11 M1 (2021 Model) With Wi-Fi.png"
     },
 
     {
