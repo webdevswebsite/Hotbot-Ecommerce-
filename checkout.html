@@ -504,21 +504,37 @@
                                         </div>
 
                                         <script>
-                                            
-                                            { cartItems.map(item =>{
-                                                const {} = item
-                                            }) }
+
+                                            {
+                                                cartItems.map(cartItem => {
+                                                    const { imgSrc, name, price, button } = cartItem;
+                                                    return (
+                                                        <section key={id}>
+                                                            <img src={product.imgSrc} alt="product image" />
+                                                            <div class="cart-item-info">
+                                                                <h3 class="cart-item-name">${product.name}</h3>
+
+                                                                <span class="cart-item-price">${product.price}</span>
+                                                            </div>
+
+                                                            <button type="button" class="cart-item-del-btn">
+                                                                <i class="ti-close"></i>
+                                                            </button>
+                                                        </section>
+                                                    )
+                                                })
+                                            }
 
                                             function getProductFromStorage() {
-                                                return 
+                                                return
                                                 const cartItems = localStorage.getItem('products') ? JSON.parse(localStorage.getItem('products')) : [];
                                             }
-                                            
+
                                             function eventListeners() {
                                                 window.addEventListener('DOMContentLoaded', () => {
                                                     getProductFromStorage();
                                                 });
-                                                
+
                                             }
                                             eventListeners();
                                         </script>
