@@ -1,165 +1,161 @@
 [
+	{
+		"name": "Adapt Active Noise Cancelling Headphones",
+		"category": "headphones",
+		"price": "24500",
+		"imgSrc": "product-list/Adapt Active Noise Cancelling Headphones.png"
+	},
 
-    {
-        "name" : "Adapt Active Noise Cancelling Headphones",
-        "category" : "headphones",
-        "price" : "24500",
-        "imgSrc" : "product-list/Adapt Active Noise Cancelling Headphones.png"
-    },
+	{
+		"name": "Amazon Echo 4th Generation Speaker",
+		"category": "accessories",
+		"price": "43000",
+		"imgSrc": "product-list/Amazon Echo 4th Generation Speaker.png"
+	},
 
-    {
-        "name" : "Amazon Echo 4th Generation Speaker",
-        "category" :"accessories",
-        "price" : "43000",
-        "imgSrc" : "product-list/Amazon Echo 4th Generation Speaker.png"
-    },
+	{
+		"name": "Amazon Fire TV Stick, HD Streaming Device",
+		"category": "accessories",
+		"price": "58000",
+		"imgSrc": "product-list/Amazon Fire TV Stick, HD Streaming Device.png"
+	},
 
+	{
+		"name": "Andoer Gimbal 3-Axis Handheld Stabilizer",
+		"category": "accessories",
+		"price": "24000",
+		"imgSrc": "product-list/Andoer Gimbal 3-Axis Handheld Stabilizer.png"
+	},
 
-    {
-        "name" : "Amazon Fire TV Stick, HD Streaming Device",
-        "category" : "accessories",
-        "price" : "58000",
-        "imgSrc" : "product-list/Amazon Fire TV Stick, HD Streaming Device.png"
-    },
+	{
+		"name": "Apple Homepod Mini White",
+		"category": "accessories",
+		"price": "82500",
+		"imgSrc": "product-list/Apple Homepod Mini White.png"
+	},
 
-    {
-        "name" : "Andoer Gimbal 3-Axis Handheld Stabilizer",
-        "category" : "accessories",
-        "price" : "24000",
-        "imgSrc" : "product-list/Andoer Gimbal 3-Axis Handheld Stabilizer.png"
-    },
+	{
+		"name": "Apple Ipad Pro 11 M1 (2021 Model) With Wi-Fi",
+		"category": "tablets",
+		"price": "564000",
+		"imgSrc": "product-list/Apple Ipad Pro 11 M1 (2021 Model) With Wi-Fi.png"
+	},
 
-    {
-        "name" : "Apple Homepod Mini White",
-        "category" : "accessories",
-        "price" : "82500",
-        "imgSrc" : "product-list/Apple Homepod Mini White.png"
-    },
+	{
+		"name": "Apple IPhone 11 - 6.1  -4GB RAM",
+		"category": "phones",
+		"price": "252500",
+		"imgSrc": "product-list/Apple IPhone 11 - 6.1  -4GB RAM.png"
+	},
 
-    {
-        "name" : "Apple Ipad Pro 11 M1 (2021 Model) With Wi-Fi",
-        "category" : "tablets",
-        "price" : "564000",
-        "imgSrc" : "product-list/Apple Ipad Pro 11 M1 (2021 Model) With Wi-Fi.png"
-    },
+	{
+		"name": "Apple Watch Se (Gps) 40mm",
+		"category": "accessories",
+		"price": "190000",
+		"imgSrc": "product-list/Apple Watch Se (Gps) 40mm.png"
+	},
 
-    {
-        "name" : "Apple IPhone 11 - 6.1  -4GB RAM",
-        "category" : "phones",
-        "price" : "252500",
-        "imgSrc" : "product-list/Apple IPhone 11 - 6.1  -4GB RAM.png"
-    },
+	{
+		"name": "IPhone 11 Case, Heavy Duty [Military Grade]",
+		"category": "phones",
+		"price": "20700",
+		"imgSrc": "product-list/IPhone 11 Case, Heavy Duty [Military Grade].png"
+	},
 
-    {
-        "name" : "Apple Watch Se (Gps) 40mm",
-        "category" : "accessories",
-        "price" : "190000",
-        "imgSrc" : "product-list/Apple Watch Se (Gps) 40mm.png"
-    },
+	{
+		"name": "Libratone Track Air+ True Wireless Earbuds",
+		"category": "headphones",
+		"price": "14000",
+		"imgSrc": "product-list/Libratone Track Air+ True Wireless Earbuds.png"
+	},
 
-    {
-        "name" : "IPhone 11 Case, Heavy Duty [Military Grade]",
-        "category" : "phones",
-        "price" : "20700",
-        "imgSrc" : "product-list/IPhone 11 Case, Heavy Duty [Military Grade].png"
-    },
+	{
+		"name": "Mini-printer",
+		"category": "accessories",
+		"price": "24000",
+		"imgSrc": "product-list/mini-printer.png"
+	},
+	{
+		"name": "Mobile Phone Holder With Bluetooth Speaker",
+		"category": "accessories",
+		"price": "27000",
+		"imgSrc": "product-list/Mobile Phone Holder With Bluetooth Speaker.png"
+	},
 
-    {
-        "name" : "Libratone Track Air+ True Wireless Earbuds",
-        "category" : "headphones",
-        "price" : "14000",
-        "imgSrc" : "product-list/Libratone Track Air+ True Wireless Earbuds.png"
-    },
+	{
+		"name": "Adapt Active Noise Cancelling Headphones",
+		"category": "headphones",
+		"price": "24500",
+		"imgSrc": "product-list/quickview-1.png"
+	},
 
-    {
-        "name" : "mini-printer",
-        "category" : "accessories",
-        "price" : "24000",
-        "imgSrc" : "product-list/mini-printer.png"
-    },
-    {
-        "name" : "Mobile Phone Holder With Bluetooth Speaker",
-        "category" : "accessories",
-        "price" : "27000",
-        "imgSrc" : "product-list/Mobile Phone Holder With Bluetooth Speaker.png"
-    },
+	{
+		"name": "IPhone X Case Heavy Duty [Military Grade]",
+		"category": "phones",
+		"price": "20700",
+		"imgSrc": "product-list/quickview-2.png"
+	},
 
-    {
-        "name" : "Adapt Active Noise Cancelling Headphones",
-        "category" :"headphones",
-        "price" :"24500",
-        "imgSrc": "product-list/quickview-1.png"
-    },
+	{
+		"name": "Desktop-screen",
+		"category": "accessories",
+		"price": "45000",
+		"imgSrc": "product-list/desktop screen.png"
+	},
 
+	{
+		"name": "Apple tablet",
+		"category": "tablets",
+		"price": "500000",
+		"imgSrc": "product-list/Apple Ipad Pro 11 M1 (2021 Model) With Wi-Fi.png"
+	},
 
-    {
-        "name" : "IPhone X Case, Heavy Duty [Military Grade]",
-        "category" : "phones",
-        "price" : "20700",
-        "imgSrc" : "product-list/quickview-2.png" 
-    },
+	{
+		"name": "Smart 5 andriod",
+		"category": "phones",
+		"price": "35100",
+		"imgSrc": "product-list/smart 5 andriod.png"
+	},
 
-    {
-        "name" : "desktop-screen",
-        "category" : "accessories",
-        "price" : "45000",
-        "imgSrc" : "product-list/desktop screen.png"
-    },
+	{
+		"name": "Andoer Gimbal 3-Axis Handheld Stabilizer-2",
+		"category": "accessories",
+		"price": "24000",
+		"imgSrc": "product-list/Andoer Gimbal 3-Axis Handheld Stabilizer-2.png"
+	},
 
-    {
-        "name" : "Apple tablet",
-        "category" : "tablets",
-        "price" : "500000",
-        "imgSrc" : "product-list/Apple Ipad Pro 11 M1 (2021 Model) With Wi-Fi.png"
-    },
+	{
+		"name": "Speakerphone",
+		"category": "accessories",
+		"price": "31900",
+		"imgSrc": "product-list/speakerphone.png"
+	},
 
-    {
-        "name" : "smart 5 andriod",
-        "category" : "phones",
-        "price" : "35100",
-        "imgSrc" : "product-list/smart 5 andriod.png"
-    },
+	{
+		"name": "Portable earpods",
+		"category": "headphones",
+		"price": "20000",
+		"imgSrc": "product-list/portable earpods.png"
+	},
 
-    {
-        "name" : "Andoer Gimbal 3-Axis Handheld Stabilizer-2",
-        "category" : "accessories",
-        "price" : "24000",
-        "imgSrc" : "product-list/Andoer Gimbal 3-Axis Handheld Stabilizer-2.png"
-    },
+	{
+		"name": "Wireless earphones",
+		"category": "headphones",
+		"price": "9000",
+		"imgSrc": "product-list/wireless earphones.png"
+	},
 
-    {
-        "name" : "speakerphone",
-        "category" : "accessories",
-        "price" : "31900",
-        "imgSrc" : "product-list/speakerphone.png"
-    },
+	{
+		"name": "amazon speaker",
+		"category": "accessories",
+		"price": "80000",
+		"imgSrc": "product-list/amazon speaker.png"
+	},
 
-    {
-        "name" : "portable earpods",
-        "category" : "headphones",
-        "price" : "20000",
-        "imgSrc" : "product-list/portable earpods.png"
-    },
-
-    {
-        "name" : "wireless earphones",
-        "category" : "headphones",
-        "price" : "9000",
-        "imgSrc" : "product-list/wireless earphones.png"
-    },
-
-    {
-        "name" : "amazon speaker",
-        "category" : "accessories",
-        "price" : "80000",
-        "imgSrc" : "product-list/amazon speaker.png"
-    },
- 
-    {
-        "name" : "white earpuds",
-        "category" : "headphones",
-        "price" : "15400",
-        "imgSrc" : "product-list/white earpuds.png"
-    }
-
+	{
+		"name": "White earpuds",
+		"category": "headphones",
+		"price": "15400",
+		"imgSrc": "product-list/white earpuds.png"
+	}
 ]
