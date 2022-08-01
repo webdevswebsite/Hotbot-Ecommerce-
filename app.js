@@ -58,15 +58,8 @@ function loadJSON(){
         });
         productList.innerHTML = html;
     })
-    .catch(error => {
-        alert(`User live server or local server`);
-    })
 }
 
-// add alert to product added to cart
-// function addProductAlert(e) {
-//     onclick()
-// }
 
 // purchase product
 function purchaseProduct(e){
@@ -169,8 +162,5 @@ function deleteProduct(e){
         return product.id !== parseInt(cartItem.dataset.id);
     });
     localStorage.setItem('products', JSON.stringify(updatedProducts)); 
-    updateCartInfo();
-    console.log(products)
-    console.log(updatedProducts)
-
+    updateCartInfo();  
 }

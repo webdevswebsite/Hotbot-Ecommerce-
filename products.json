@@ -85,7 +85,7 @@
     },
 
     {
-        "name" : "quickview-1",
+        "name" : "Adapt Active Noise Cancelling Headphones",
         "category" :"headphones",
         "price" :"24500",
         "imgSrc": "product-list/quickview-1.png"
@@ -93,7 +93,7 @@
 
 
     {
-        "name" : "quickview-2",
+        "name" : "IPhone X Case, Heavy Duty [Military Grade]",
         "category" : "phones",
         "price" : "20700",
         "imgSrc" : "product-list/quickview-2.png" 
